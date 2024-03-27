@@ -65,7 +65,7 @@ function karya(){
 }
 
 function profil(){
-    window.open("")
+    window.open("https://afsans.github.io/profil-guru-dan-siswa/")
 }
 
 function daftar(){
